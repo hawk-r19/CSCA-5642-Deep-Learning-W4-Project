@@ -1,7 +1,7 @@
 # CSCA 5642 Week 4 Recurrent Neural Network Project  
 ***
 
-This project is a submission to [this Kaggle competition]([https://www.kaggle.com/c/histopathologic-cancer-detection/overview](https://www.kaggle.com/competitions/nlp-getting-started/overview)), as a brief project to learn about RNNs.
+This project is a submission to [this Kaggle competition](https://www.kaggle.com/competitions/nlp-getting-started/overview), as a brief project to learn about RNNs.
 
 ## Files  
 ***  
